@@ -46,6 +46,7 @@ sidebar: [
     label: "Before you start",
     translations: {
       sr: "Пре почетка",
+      nl: "Voordat je aan de slag gaat",
     },
 ```
 **Add new language code in translations under the sr: in all sidebar section.**
